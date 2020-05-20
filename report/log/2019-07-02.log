@@ -1,0 +1,103 @@
+2019-07-02 20:50:53,438 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 6.454206228256226 seconds
+2019-07-02 20:50:53,451 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 20:50:53,455 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 20:53:20,160 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.071943998336792 seconds
+2019-07-02 20:53:20,172 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 20:53:20,175 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 20:55:40,042 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9539308547973633 seconds
+2019-07-02 20:55:40,051 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 20:55:40,054 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 20:59:27,228 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.010401725769043 seconds
+2019-07-02 20:59:27,237 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 20:59:27,240 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 20:59:58,095 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.976006269454956 seconds
+2019-07-02 20:59:58,105 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 20:59:58,109 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 21:00:00,224 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 2.110680103302002 seconds
+2019-07-02 21:00:00,455 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.23066401481628418 seconds
+2019-07-02 21:00:00,580 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.12496805191040039 seconds
+2019-07-02 21:00:00,668 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.08720684051513672 seconds
+2019-07-02 21:00:01,013 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3446347713470459 seconds
+2019-07-02 21:00:01,014 - root - INFO - ############################### START ###############################
+2019-07-02 21:00:01,578 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20190702/210001.020.png, Spend 0.5590980052947998 seconds
+2019-07-02 21:00:01,593 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/home, Spend 0.01482391357421875 seconds
+2019-07-02 21:00:01,594 - root - INFO - ###############################  End  ###############################
+2019-07-02 21:00:01,685 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.08965682983398438 seconds
+2019-07-02 21:04:12,510 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9902031421661377 seconds
+2019-07-02 21:04:12,521 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 21:04:12,524 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 21:04:14,548 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 2.0187370777130127 seconds
+2019-07-02 21:04:14,726 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.17833995819091797 seconds
+2019-07-02 21:04:14,846 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.11911320686340332 seconds
+2019-07-02 21:04:14,911 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.06422781944274902 seconds
+2019-07-02 21:04:15,101 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.18990278244018555 seconds
+2019-07-02 21:04:15,101 - root - INFO - ############################### START ###############################
+2019-07-02 21:04:15,216 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class="el-menu--collapse el-menu"]//li[1]>, Spend 0.11170268058776855 seconds
+2019-07-02 21:04:15,271 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.05444812774658203 seconds
+2019-07-02 21:04:15,799 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20190702/210415.272.png, Spend 0.5272059440612793 seconds
+2019-07-02 21:04:15,831 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/home, Spend 0.03136110305786133 seconds
+2019-07-02 21:04:15,831 - root - INFO - ###############################  End  ###############################
+2019-07-02 21:04:15,919 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.08076906204223633 seconds
+2019-07-02 21:08:23,810 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9752769470214844 seconds
+2019-07-02 21:08:23,818 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 21:08:23,829 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 21:08:24,856 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 1.0229089260101318 seconds
+2019-07-02 21:08:25,038 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.18221187591552734 seconds
+2019-07-02 21:08:25,156 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.11683392524719238 seconds
+2019-07-02 21:08:25,219 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.06273293495178223 seconds
+2019-07-02 21:08:25,413 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.19380998611450195 seconds
+2019-07-02 21:08:25,413 - root - INFO - ############################### START ###############################
+2019-07-02 21:08:25,525 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class="el-menu--collapse el-menu"]//li[1]>, Spend 0.10886621475219727 seconds
+2019-07-02 21:08:26,578 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.05206918716430664 seconds
+2019-07-02 21:08:27,078 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20190702/210826.578.png, Spend 0.49947190284729004 seconds
+2019-07-02 21:08:27,112 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/home, Spend 0.033048152923583984 seconds
+2019-07-02 21:08:27,112 - root - INFO - ###############################  End  ###############################
+2019-07-02 21:08:27,208 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.09104490280151367 seconds
+2019-07-02 21:13:29,309 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.019652843475342 seconds
+2019-07-02 21:13:29,316 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 21:13:29,326 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 21:13:31,338 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 2.0087890625 seconds
+2019-07-02 21:13:31,518 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.1789400577545166 seconds
+2019-07-02 21:13:31,643 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.12440681457519531 seconds
+2019-07-02 21:13:31,705 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.061615943908691406 seconds
+2019-07-02 21:13:31,869 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.1638638973236084 seconds
+2019-07-02 21:13:31,869 - root - INFO - ############################### START ###############################
+2019-07-02 21:13:31,974 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class="el-menu--collapse el-menu"]//li[1]>, Spend 0.1016089916229248 seconds
+2019-07-02 21:13:32,277 - root - INFO - SUCCESS    Move to element: <xpath->//li[text()="分组管理"]>, Spend 0.30297279357910156 seconds
+2019-07-02 21:13:32,321 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.042973995208740234 seconds
+2019-07-02 21:13:32,826 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20190702/211332.322.png, Spend 0.504605770111084 seconds
+2019-07-02 21:13:32,858 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/home, Spend 0.03180193901062012 seconds
+2019-07-02 21:13:32,859 - root - INFO - ###############################  End  ###############################
+2019-07-02 21:13:32,946 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.08258509635925293 seconds
+2019-07-02 21:14:48,777 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9438998699188232 seconds
+2019-07-02 21:14:48,784 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 21:14:48,792 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 21:14:50,861 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 2.0666251182556152 seconds
+2019-07-02 21:14:51,034 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.1726391315460205 seconds
+2019-07-02 21:14:51,156 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.12153911590576172 seconds
+2019-07-02 21:14:51,216 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.05926394462585449 seconds
+2019-07-02 21:14:51,367 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.1508798599243164 seconds
+2019-07-02 21:14:51,368 - root - INFO - ############################### START ###############################
+2019-07-02 21:14:51,486 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class="el-menu--collapse el-menu"]//li[1]>, Spend 0.11439895629882812 seconds
+2019-07-02 21:14:51,792 - root - INFO - SUCCESS    Move to element: <xpath->//li[text()="分组管理"]>, Spend 0.30574798583984375 seconds
+2019-07-02 21:14:52,840 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.0444178581237793 seconds
+2019-07-02 21:14:53,339 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20190702/211452.840.png, Spend 0.49907898902893066 seconds
+2019-07-02 21:14:53,373 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/home, Spend 0.032479047775268555 seconds
+2019-07-02 21:14:53,374 - root - INFO - ###############################  End  ###############################
+2019-07-02 21:14:53,463 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.08336424827575684 seconds
+2019-07-02 21:15:21,375 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.0108370780944824 seconds
+2019-07-02 21:15:21,387 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-07-02 21:15:21,395 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-07-02 21:15:22,380 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 0.98099684715271 seconds
+2019-07-02 21:15:22,554 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.17115402221679688 seconds
+2019-07-02 21:15:22,681 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.12680792808532715 seconds
+2019-07-02 21:15:22,759 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.07801127433776855 seconds
+2019-07-02 21:15:22,920 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.16008687019348145 seconds
+2019-07-02 21:15:22,921 - root - INFO - ############################### START ###############################
+2019-07-02 21:15:23,031 - root - INFO - SUCCESS    Clicked element: <xpath->//ul[@class="el-menu--collapse el-menu"]//li[1]>, Spend 0.10620403289794922 seconds
+2019-07-02 21:15:23,329 - root - INFO - SUCCESS    Move to element: <xpath->//li[text()="分组管理"]>, Spend 0.2976820468902588 seconds
+2019-07-02 21:15:25,377 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.04431891441345215 seconds
+2019-07-02 21:15:25,889 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20190702/211525.378.png, Spend 0.5108401775360107 seconds
+2019-07-02 21:15:25,934 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/home, Spend 0.04458308219909668 seconds
+2019-07-02 21:15:25,934 - root - INFO - ###############################  End  ###############################
+2019-07-02 21:15:26,022 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.08210206031799316 seconds

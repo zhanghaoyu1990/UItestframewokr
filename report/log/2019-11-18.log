@@ -1,0 +1,348 @@
+2019-11-18 11:09:54,304 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.901918888092041 seconds
+2019-11-18 11:09:54,317 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-11-18 11:09:54,331 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-11-18 11:09:54,464 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.1295301914215088 seconds
+2019-11-18 11:09:55,625 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/login, Spend 1.1602752208709717 seconds
+2019-11-18 11:09:55,784 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: auto_test, Spend 0.15810012817382812 seconds
+2019-11-18 11:09:55,907 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Ws123456, Spend 0.12314915657043457 seconds
+2019-11-18 11:09:55,998 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.0904240608215332 seconds
+2019-11-18 11:09:55,999 - root - INFO - ############################### START ###############################
+2019-11-18 11:09:57,090 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 1.0810108184814453 seconds
+2019-11-18 11:09:57,687 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5957660675048828 seconds
+2019-11-18 11:09:57,747 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.060363054275512695 seconds
+2019-11-18 11:09:57,858 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.10994911193847656 seconds
+2019-11-18 11:09:58,541 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.6827919483184814 seconds
+2019-11-18 11:09:58,583 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.04096508026123047 seconds
+2019-11-18 11:09:58,621 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.037690162658691406 seconds
+2019-11-18 11:09:58,662 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.0405278205871582 seconds
+2019-11-18 11:09:58,709 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.046595096588134766 seconds
+2019-11-18 11:09:58,759 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.04936695098876953 seconds
+2019-11-18 11:09:58,797 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03645205497741699 seconds
+2019-11-18 11:09:58,916 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.11859607696533203 seconds
+2019-11-18 11:09:59,009 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: , Spend 0.09246206283569336 seconds
+2019-11-18 11:09:59,115 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.10622000694274902 seconds
+2019-11-18 11:09:59,180 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.0644540786743164 seconds
+2019-11-18 11:09:59,260 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.07973790168762207 seconds
+2019-11-18 11:09:59,844 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "")]>, Spend 0.5826530456542969 seconds
+2019-11-18 11:09:59,899 - root - INFO - SUCCESS    Clicked element: <xpath->//label[text()="分组名称"]//parent::*//input>, Spend 0.05449700355529785 seconds
+2019-11-18 11:09:59,964 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="保存"]>, Spend 0.06500625610351562 seconds
+2019-11-18 11:10:00,028 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.043238162994384766 seconds
+2019-11-18 11:10:00,028 - root - INFO - ###############################  End  ###############################
+2019-11-18 11:10:00,028 - root - INFO - ############################### START ###############################
+2019-11-18 11:10:00,070 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.03731513023376465 seconds
+2019-11-18 11:10:00,647 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.57669997215271 seconds
+2019-11-18 11:10:00,693 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.04539990425109863 seconds
+2019-11-18 11:10:00,730 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.03587198257446289 seconds
+2019-11-18 11:10:00,813 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.08240008354187012 seconds
+2019-11-18 11:10:01,469 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.6555640697479248 seconds
+2019-11-18 11:10:01,506 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03635978698730469 seconds
+2019-11-18 11:10:01,553 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.04674220085144043 seconds
+2019-11-18 11:10:01,592 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03796720504760742 seconds
+2019-11-18 11:10:01,628 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.036032915115356445 seconds
+2019-11-18 11:10:01,665 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03579306602478027 seconds
+2019-11-18 11:10:01,702 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03702712059020996 seconds
+2019-11-18 11:10:01,741 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03763008117675781 seconds
+2019-11-18 11:10:01,856 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.11514091491699219 seconds
+2019-11-18 11:10:02,106 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: ssssssssssssssssssssssssssssssssssss, Spend 0.24955391883850098 seconds
+2019-11-18 11:10:02,204 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.09737110137939453 seconds
+2019-11-18 11:10:02,266 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.06088900566101074 seconds
+2019-11-18 11:10:02,337 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.07138705253601074 seconds
+2019-11-18 11:10:02,913 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "")]>, Spend 0.5754458904266357 seconds
+2019-11-18 11:10:02,982 - root - INFO - SUCCESS    Clicked element: <xpath->//label[text()="分组名称"]//parent::*//input>, Spend 0.06761503219604492 seconds
+2019-11-18 11:10:03,053 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="保存"]>, Spend 0.07079291343688965 seconds
+2019-11-18 11:10:08,194 - root - ERROR - No such element found xpath->//div[contains(text(), "中英文、数字、下划线(非开头)")] Message: Element: xpath->//div[contains(text(), "中英文、数字、下划线(非开头)")] not found in 5 seconds.
+
+2019-11-18 11:10:08,551 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191118/111008.196.png, Spend 0.35560011863708496 seconds
+2019-11-18 11:10:08,595 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.0431208610534668 seconds
+2019-11-18 11:10:08,595 - root - INFO - ###############################  End  ###############################
+2019-11-18 11:10:08,597 - root - INFO - ############################### START ###############################
+2019-11-18 11:10:08,642 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.04070925712585449 seconds
+2019-11-18 11:10:09,217 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.574587345123291 seconds
+2019-11-18 11:10:09,261 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.04350686073303223 seconds
+2019-11-18 11:10:09,295 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.03389620780944824 seconds
+2019-11-18 11:10:09,380 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.08377599716186523 seconds
+2019-11-18 11:10:09,937 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.5567131042480469 seconds
+2019-11-18 11:10:10,065 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.12752819061279297 seconds
+2019-11-18 11:10:10,111 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.044699907302856445 seconds
+2019-11-18 11:10:10,150 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03854179382324219 seconds
+2019-11-18 11:10:10,188 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.037573814392089844 seconds
+2019-11-18 11:10:10,226 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03775191307067871 seconds
+2019-11-18 11:10:10,271 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.043707847595214844 seconds
+2019-11-18 11:10:10,310 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.0389401912689209 seconds
+2019-11-18 11:10:10,345 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03401994705200195 seconds
+2019-11-18 11:10:10,455 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.11016011238098145 seconds
+2019-11-18 11:10:10,585 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: _asdasdasd, Spend 0.12959003448486328 seconds
+2019-11-18 11:10:10,680 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.09440493583679199 seconds
+2019-11-18 11:10:10,753 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.07237100601196289 seconds
+2019-11-18 11:10:10,845 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.0909731388092041 seconds
+2019-11-18 11:10:11,420 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "")]>, Spend 0.5748658180236816 seconds
+2019-11-18 11:10:11,488 - root - INFO - SUCCESS    Clicked element: <xpath->//label[text()="分组名称"]//parent::*//input>, Spend 0.06730914115905762 seconds
+2019-11-18 11:10:11,569 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="保存"]>, Spend 0.08097577095031738 seconds
+2019-11-18 11:10:11,622 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.03580307960510254 seconds
+2019-11-18 11:10:11,623 - root - INFO - ###############################  End  ###############################
+2019-11-18 11:10:11,623 - root - INFO - ############################### START ###############################
+2019-11-18 11:10:11,663 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.034888267517089844 seconds
+2019-11-18 11:10:12,236 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5726518630981445 seconds
+2019-11-18 11:10:12,285 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.04830598831176758 seconds
+2019-11-18 11:10:12,319 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.033457040786743164 seconds
+2019-11-18 11:10:12,395 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.07513999938964844 seconds
+2019-11-18 11:10:13,003 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.6075561046600342 seconds
+2019-11-18 11:10:13,050 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.04634690284729004 seconds
+2019-11-18 11:10:13,093 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.04194808006286621 seconds
+2019-11-18 11:10:13,131 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.037606000900268555 seconds
+2019-11-18 11:10:13,171 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03951406478881836 seconds
+2019-11-18 11:10:13,210 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03800082206726074 seconds
+2019-11-18 11:10:13,245 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03522610664367676 seconds
+2019-11-18 11:10:13,352 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.10575008392333984 seconds
+2019-11-18 11:10:13,518 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: !@#$%^&*(, Spend 0.16577601432800293 seconds
+2019-11-18 11:10:13,612 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.09331274032592773 seconds
+2019-11-18 11:10:13,687 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.0746622085571289 seconds
+2019-11-18 11:10:13,761 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.07405805587768555 seconds
+2019-11-18 11:10:14,335 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "")]>, Spend 0.5726878643035889 seconds
+2019-11-18 11:10:14,403 - root - INFO - SUCCESS    Clicked element: <xpath->//label[text()="分组名称"]//parent::*//input>, Spend 0.06804466247558594 seconds
+2019-11-18 11:10:14,468 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="保存"]>, Spend 0.06493282318115234 seconds
+2019-11-18 11:10:14,518 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.032311201095581055 seconds
+2019-11-18 11:10:14,518 - root - INFO - ###############################  End  ###############################
+2019-11-18 11:10:14,519 - root - INFO - ############################### START ###############################
+2019-11-18 11:10:14,561 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.0362238883972168 seconds
+2019-11-18 11:10:15,132 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5712361335754395 seconds
+2019-11-18 11:10:15,180 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.047029972076416016 seconds
+2019-11-18 11:10:15,214 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.033241987228393555 seconds
+2019-11-18 11:10:15,292 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.07802009582519531 seconds
+2019-11-18 11:10:15,854 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.5612471103668213 seconds
+2019-11-18 11:10:15,887 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03259396553039551 seconds
+2019-11-18 11:10:16,012 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.12442898750305176 seconds
+2019-11-18 11:10:16,055 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.04235696792602539 seconds
+2019-11-18 11:10:16,097 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.04114794731140137 seconds
+2019-11-18 11:10:16,135 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03792691230773926 seconds
+2019-11-18 11:10:16,173 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.0375978946685791 seconds
+2019-11-18 11:10:16,211 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.037023067474365234 seconds
+2019-11-18 11:10:16,248 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03677082061767578 seconds
+2019-11-18 11:10:16,289 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.040549278259277344 seconds
+2019-11-18 11:10:16,398 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.10849785804748535 seconds
+2019-11-18 11:10:16,529 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: test123, Spend 0.13100481033325195 seconds
+2019-11-18 11:10:16,622 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.09250807762145996 seconds
+2019-11-18 11:10:16,681 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.058605194091796875 seconds
+2019-11-18 11:10:16,763 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.08087301254272461 seconds
+2019-11-18 11:10:17,336 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "")]>, Spend 0.5731148719787598 seconds
+2019-11-18 11:10:17,399 - root - INFO - SUCCESS    Clicked element: <xpath->//label[text()="分组名称"]//parent::*//input>, Spend 0.06194901466369629 seconds
+2019-11-18 11:10:17,468 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="保存"]>, Spend 0.06888580322265625 seconds
+2019-11-18 11:10:17,653 - root - INFO - SUCCESS    Clear and type element: <xpath->//input[@placeholder="请输入分组名称"]> content: test123, Spend 0.18456029891967773 seconds
+2019-11-18 11:10:17,701 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.047486066818237305 seconds
+2019-11-18 11:10:17,736 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.034851789474487305 seconds
+2019-11-18 11:10:17,767 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030803918838500977 seconds
+2019-11-18 11:10:17,801 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03355598449707031 seconds
+2019-11-18 11:10:17,833 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031148910522460938 seconds
+2019-11-18 11:10:17,863 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03008413314819336 seconds
+2019-11-18 11:10:17,896 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03234100341796875 seconds
+2019-11-18 11:10:17,928 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03114175796508789 seconds
+2019-11-18 11:10:17,961 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03270316123962402 seconds
+2019-11-18 11:10:17,993 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03212594985961914 seconds
+2019-11-18 11:10:18,024 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030639171600341797 seconds
+2019-11-18 11:10:18,058 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03337907791137695 seconds
+2019-11-18 11:10:18,090 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03159904479980469 seconds
+2019-11-18 11:10:18,121 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03079700469970703 seconds
+2019-11-18 11:10:18,154 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031755924224853516 seconds
+2019-11-18 11:10:18,186 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03166794776916504 seconds
+2019-11-18 11:10:18,217 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030646085739135742 seconds
+2019-11-18 11:10:18,249 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031553030014038086 seconds
+2019-11-18 11:10:18,281 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03133225440979004 seconds
+2019-11-18 11:10:18,312 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030941009521484375 seconds
+2019-11-18 11:10:18,343 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030644893646240234 seconds
+2019-11-18 11:10:18,374 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03053426742553711 seconds
+2019-11-18 11:10:18,407 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03218221664428711 seconds
+2019-11-18 11:10:18,441 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03338909149169922 seconds
+2019-11-18 11:10:18,472 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03127288818359375 seconds
+2019-11-18 11:10:18,504 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0314633846282959 seconds
+2019-11-18 11:10:18,536 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03133583068847656 seconds
+2019-11-18 11:10:18,568 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031735897064208984 seconds
+2019-11-18 11:10:18,600 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03145337104797363 seconds
+2019-11-18 11:10:18,632 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0315701961517334 seconds
+2019-11-18 11:10:18,664 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03124094009399414 seconds
+2019-11-18 11:10:18,695 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03115701675415039 seconds
+2019-11-18 11:10:18,726 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03068089485168457 seconds
+2019-11-18 11:10:18,757 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030421018600463867 seconds
+2019-11-18 11:10:18,790 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032061100006103516 seconds
+2019-11-18 11:10:18,825 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03443408012390137 seconds
+2019-11-18 11:10:18,856 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031144142150878906 seconds
+2019-11-18 11:10:18,888 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03109288215637207 seconds
+2019-11-18 11:10:18,920 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03149700164794922 seconds
+2019-11-18 11:10:18,951 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03120589256286621 seconds
+2019-11-18 11:10:18,983 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03089308738708496 seconds
+2019-11-18 11:10:19,014 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03107595443725586 seconds
+2019-11-18 11:10:19,046 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03118896484375 seconds
+2019-11-18 11:10:19,078 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03144097328186035 seconds
+2019-11-18 11:10:19,110 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03167295455932617 seconds
+2019-11-18 11:10:19,141 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03101205825805664 seconds
+2019-11-18 11:10:19,173 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03121781349182129 seconds
+2019-11-18 11:10:19,207 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0339510440826416 seconds
+2019-11-18 11:10:19,239 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0308380126953125 seconds
+2019-11-18 11:10:19,270 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030885934829711914 seconds
+2019-11-18 11:10:19,302 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03110504150390625 seconds
+2019-11-18 11:10:19,333 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03141212463378906 seconds
+2019-11-18 11:10:19,365 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030724763870239258 seconds
+2019-11-18 11:10:19,396 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031162261962890625 seconds
+2019-11-18 11:10:19,428 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031047821044921875 seconds
+2019-11-18 11:10:19,460 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03148531913757324 seconds
+2019-11-18 11:10:19,491 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03127598762512207 seconds
+2019-11-18 11:10:19,524 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03157186508178711 seconds
+2019-11-18 11:10:19,556 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03194689750671387 seconds
+2019-11-18 11:10:19,591 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03459596633911133 seconds
+2019-11-18 11:10:19,623 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03196597099304199 seconds
+2019-11-18 11:10:19,656 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032019853591918945 seconds
+2019-11-18 11:10:19,687 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030586719512939453 seconds
+2019-11-18 11:10:19,718 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03087902069091797 seconds
+2019-11-18 11:10:19,750 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030994892120361328 seconds
+2019-11-18 11:10:19,781 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031156301498413086 seconds
+2019-11-18 11:10:19,813 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031260013580322266 seconds
+2019-11-18 11:10:19,844 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030879974365234375 seconds
+2019-11-18 11:10:19,875 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030514955520629883 seconds
+2019-11-18 11:10:19,907 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030912160873413086 seconds
+2019-11-18 11:10:19,938 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030975341796875 seconds
+2019-11-18 11:10:19,972 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03378701210021973 seconds
+2019-11-18 11:10:20,004 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031529903411865234 seconds
+2019-11-18 11:10:20,036 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03111410140991211 seconds
+2019-11-18 11:10:20,068 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03149676322937012 seconds
+2019-11-18 11:10:20,101 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03236198425292969 seconds
+2019-11-18 11:10:20,132 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030672788619995117 seconds
+2019-11-18 11:10:20,165 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.033007144927978516 seconds
+2019-11-18 11:10:20,196 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03065013885498047 seconds
+2019-11-18 11:10:20,228 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03127694129943848 seconds
+2019-11-18 11:10:20,260 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03156685829162598 seconds
+2019-11-18 11:10:20,292 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03171396255493164 seconds
+2019-11-18 11:10:20,324 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031647443771362305 seconds
+2019-11-18 11:10:20,359 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.034303903579711914 seconds
+2019-11-18 11:10:20,391 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031374216079711914 seconds
+2019-11-18 11:10:20,423 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031094074249267578 seconds
+2019-11-18 11:10:20,454 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030935049057006836 seconds
+2019-11-18 11:10:20,486 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0315709114074707 seconds
+2019-11-18 11:10:20,518 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03179812431335449 seconds
+2019-11-18 11:10:20,550 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03120589256286621 seconds
+2019-11-18 11:10:20,582 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031286001205444336 seconds
+2019-11-18 11:10:20,613 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03132009506225586 seconds
+2019-11-18 11:10:20,645 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031156301498413086 seconds
+2019-11-18 11:10:20,678 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03237795829772949 seconds
+2019-11-18 11:10:21,008 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191118/111020.679.png, Spend 0.3294510841369629 seconds
+2019-11-18 11:10:21,076 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.06711769104003906 seconds
+2019-11-18 11:10:21,077 - root - INFO - ###############################  End  ###############################
+2019-11-18 11:10:21,085 - root - INFO - ############################### START ###############################
+2019-11-18 11:10:21,144 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.05287599563598633 seconds
+2019-11-18 11:10:21,716 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5715200901031494 seconds
+2019-11-18 11:10:21,764 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.04770302772521973 seconds
+2019-11-18 11:10:21,798 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.03360891342163086 seconds
+2019-11-18 11:10:21,879 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.08086514472961426 seconds
+2019-11-18 11:10:22,438 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.5586090087890625 seconds
+2019-11-18 11:10:22,566 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.12685894966125488 seconds
+2019-11-18 11:10:22,607 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.040366172790527344 seconds
+2019-11-18 11:10:22,646 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.039000749588012695 seconds
+2019-11-18 11:10:22,686 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.0393068790435791 seconds
+2019-11-18 11:10:22,725 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03807210922241211 seconds
+2019-11-18 11:10:22,766 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.040651798248291016 seconds
+2019-11-18 11:10:22,803 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03659701347351074 seconds
+2019-11-18 11:10:22,838 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03525209426879883 seconds
+2019-11-18 11:10:22,939 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.09974336624145508 seconds
+2019-11-18 11:10:23,056 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: test1234, Spend 0.11689496040344238 seconds
+2019-11-18 11:10:23,160 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.10384607315063477 seconds
+2019-11-18 11:10:23,217 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.05572700500488281 seconds
+2019-11-18 11:10:23,298 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.08066773414611816 seconds
+2019-11-18 11:10:23,870 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "")]>, Spend 0.571915864944458 seconds
+2019-11-18 11:10:23,939 - root - INFO - SUCCESS    Clicked element: <xpath->//label[text()="分组名称"]//parent::*//input>, Spend 0.06830191612243652 seconds
+2019-11-18 11:10:24,007 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="保存"]>, Spend 0.0679779052734375 seconds
+2019-11-18 11:10:24,196 - root - INFO - SUCCESS    Clear and type element: <xpath->//input[@placeholder="请输入分组名称"]> content: test1234, Spend 0.18827414512634277 seconds
+2019-11-18 11:10:24,239 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.04264712333679199 seconds
+2019-11-18 11:10:24,272 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032305240631103516 seconds
+2019-11-18 11:10:24,303 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030681133270263672 seconds
+2019-11-18 11:10:24,335 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03218507766723633 seconds
+2019-11-18 11:10:24,373 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.037058115005493164 seconds
+2019-11-18 11:10:24,405 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03172183036804199 seconds
+2019-11-18 11:10:24,438 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03194904327392578 seconds
+2019-11-18 11:10:24,469 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03137516975402832 seconds
+2019-11-18 11:10:24,501 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0316469669342041 seconds
+2019-11-18 11:10:24,534 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03174614906311035 seconds
+2019-11-18 11:10:24,566 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03208518028259277 seconds
+2019-11-18 11:10:24,600 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03295421600341797 seconds
+2019-11-18 11:10:24,632 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031622886657714844 seconds
+2019-11-18 11:10:24,665 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032868146896362305 seconds
+2019-11-18 11:10:24,698 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032906293869018555 seconds
+2019-11-18 11:10:24,730 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03140664100646973 seconds
+2019-11-18 11:10:24,762 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03130602836608887 seconds
+2019-11-18 11:10:24,793 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030987977981567383 seconds
+2019-11-18 11:10:24,826 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03216099739074707 seconds
+2019-11-18 11:10:24,857 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031100988388061523 seconds
+2019-11-18 11:10:24,889 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031210899353027344 seconds
+2019-11-18 11:10:24,921 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03136801719665527 seconds
+2019-11-18 11:10:24,953 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031475067138671875 seconds
+2019-11-18 11:10:24,985 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0312497615814209 seconds
+2019-11-18 11:10:25,017 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03155827522277832 seconds
+2019-11-18 11:10:25,051 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03336977958679199 seconds
+2019-11-18 11:10:25,083 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03194284439086914 seconds
+2019-11-18 11:10:25,116 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032242774963378906 seconds
+2019-11-18 11:10:25,148 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03177499771118164 seconds
+2019-11-18 11:10:25,180 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03162789344787598 seconds
+2019-11-18 11:10:25,213 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03220987319946289 seconds
+2019-11-18 11:10:25,244 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030364036560058594 seconds
+2019-11-18 11:10:25,275 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031242847442626953 seconds
+2019-11-18 11:10:25,308 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03192400932312012 seconds
+2019-11-18 11:10:25,340 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03142189979553223 seconds
+2019-11-18 11:10:25,371 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031170129776000977 seconds
+2019-11-18 11:10:25,403 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031674861907958984 seconds
+2019-11-18 11:10:25,438 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03398394584655762 seconds
+2019-11-18 11:10:25,470 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03137993812561035 seconds
+2019-11-18 11:10:25,501 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031527042388916016 seconds
+2019-11-18 11:10:25,535 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032833099365234375 seconds
+2019-11-18 11:10:25,567 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03173232078552246 seconds
+2019-11-18 11:10:25,599 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031278133392333984 seconds
+2019-11-18 11:10:25,632 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03243303298950195 seconds
+2019-11-18 11:10:25,663 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03133797645568848 seconds
+2019-11-18 11:10:25,696 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032354116439819336 seconds
+2019-11-18 11:10:25,730 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03294515609741211 seconds
+2019-11-18 11:10:25,768 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.037882089614868164 seconds
+2019-11-18 11:10:25,804 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.035494089126586914 seconds
+2019-11-18 11:10:25,844 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03906702995300293 seconds
+2019-11-18 11:10:25,876 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031625986099243164 seconds
+2019-11-18 11:10:25,908 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03132915496826172 seconds
+2019-11-18 11:10:25,941 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03273773193359375 seconds
+2019-11-18 11:10:25,973 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03146100044250488 seconds
+2019-11-18 11:10:26,004 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031249046325683594 seconds
+2019-11-18 11:10:26,037 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03234410285949707 seconds
+2019-11-18 11:10:26,069 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03134489059448242 seconds
+2019-11-18 11:10:26,101 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03147315979003906 seconds
+2019-11-18 11:10:26,133 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03127002716064453 seconds
+2019-11-18 11:10:26,164 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03081488609313965 seconds
+2019-11-18 11:10:26,198 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03334975242614746 seconds
+2019-11-18 11:10:26,231 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032662153244018555 seconds
+2019-11-18 11:10:26,264 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032450199127197266 seconds
+2019-11-18 11:10:26,296 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03128504753112793 seconds
+2019-11-18 11:10:26,327 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031049251556396484 seconds
+2019-11-18 11:10:26,359 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03136396408081055 seconds
+2019-11-18 11:10:26,392 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03201699256896973 seconds
+2019-11-18 11:10:26,423 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030883073806762695 seconds
+2019-11-18 11:10:26,455 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031615257263183594 seconds
+2019-11-18 11:10:26,487 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031664133071899414 seconds
+2019-11-18 11:10:26,519 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030903100967407227 seconds
+2019-11-18 11:10:26,551 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03147602081298828 seconds
+2019-11-18 11:10:26,582 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031374216079711914 seconds
+2019-11-18 11:10:26,614 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031453847885131836 seconds
+2019-11-18 11:10:26,647 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03255105018615723 seconds
+2019-11-18 11:10:26,678 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03033590316772461 seconds
+2019-11-18 11:10:26,712 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032852888107299805 seconds
+2019-11-18 11:10:26,743 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030476093292236328 seconds
+2019-11-18 11:10:26,775 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032328128814697266 seconds
+2019-11-18 11:10:26,807 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03157496452331543 seconds
+2019-11-18 11:10:26,838 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03053903579711914 seconds
+2019-11-18 11:10:26,870 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.030961036682128906 seconds
+2019-11-18 11:10:26,902 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031616926193237305 seconds
+2019-11-18 11:10:26,934 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03148078918457031 seconds
+2019-11-18 11:10:26,966 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031453847885131836 seconds
+2019-11-18 11:10:26,998 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03121471405029297 seconds
+2019-11-18 11:10:27,030 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.032399892807006836 seconds
+2019-11-18 11:10:27,062 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0309908390045166 seconds
+2019-11-18 11:10:27,094 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0319671630859375 seconds
+2019-11-18 11:10:27,125 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.02991795539855957 seconds
+2019-11-18 11:10:27,157 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.031555891036987305 seconds
+2019-11-18 11:10:27,189 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.03150010108947754 seconds
+2019-11-18 11:10:27,222 - root - INFO - FAIL    Unable to click element: <xpath->//button//span[text()="查询"]>, Spend 0.0325770378112793 seconds
+2019-11-18 11:10:27,567 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191118/111027.223.png, Spend 0.3449437618255615 seconds
+2019-11-18 11:10:27,599 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.031061887741088867 seconds
+2019-11-18 11:10:27,599 - root - INFO - ###############################  End  ###############################
+2019-11-18 11:10:27,703 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.10220623016357422 seconds

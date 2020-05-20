@@ -1,0 +1,221 @@
+2019-11-11 16:02:58,698 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.0469839572906494 seconds
+2019-11-11 16:02:58,712 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-11-11 16:02:58,718 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-11-11 16:04:55,878 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.048107862472534 seconds
+2019-11-11 16:04:55,886 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-11-11 16:04:55,893 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-11-11 16:04:56,022 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.12569618225097656 seconds
+2019-11-11 16:04:57,475 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/login, Spend 1.4519541263580322 seconds
+2019-11-11 16:04:57,643 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.16765165328979492 seconds
+2019-11-11 16:04:57,768 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.12512826919555664 seconds
+2019-11-11 16:04:57,845 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.07633781433105469 seconds
+2019-11-11 16:04:57,846 - root - INFO - ############################### START ###############################
+2019-11-11 16:05:02,982 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:05:02,983 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.132015943527222 seconds
+2019-11-11 16:05:03,347 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/160502.985.png, Spend 0.3626868724822998 seconds
+2019-11-11 16:05:03,398 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.05011582374572754 seconds
+2019-11-11 16:05:03,398 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:05:03,401 - root - INFO - ############################### START ###############################
+2019-11-11 16:05:08,542 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:05:08,542 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.135901212692261 seconds
+2019-11-11 16:05:08,891 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/160508.544.png, Spend 0.3470611572265625 seconds
+2019-11-11 16:05:08,911 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.020180940628051758 seconds
+2019-11-11 16:05:08,912 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:05:08,912 - root - INFO - ############################### START ###############################
+2019-11-11 16:05:14,051 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:05:14,052 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.134764671325684 seconds
+2019-11-11 16:05:14,398 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/160514.054.png, Spend 0.3448450565338135 seconds
+2019-11-11 16:05:14,425 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.026095151901245117 seconds
+2019-11-11 16:05:14,425 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:05:14,426 - root - INFO - ############################### START ###############################
+2019-11-11 16:05:19,580 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:05:19,581 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.147073984146118 seconds
+2019-11-11 16:05:19,919 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/160519.582.png, Spend 0.3369140625 seconds
+2019-11-11 16:05:19,940 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.020394086837768555 seconds
+2019-11-11 16:05:19,940 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:05:19,941 - root - INFO - ############################### START ###############################
+2019-11-11 16:05:25,092 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:05:25,093 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.1472508907318115 seconds
+2019-11-11 16:05:25,434 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/160525.094.png, Spend 0.3400609493255615 seconds
+2019-11-11 16:05:25,458 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.023211002349853516 seconds
+2019-11-11 16:05:25,458 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:05:25,459 - root - INFO - ############################### START ###############################
+2019-11-11 16:05:30,605 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:05:30,606 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.140655755996704 seconds
+2019-11-11 16:05:30,938 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/160530.607.png, Spend 0.33121323585510254 seconds
+2019-11-11 16:05:30,962 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.023105144500732422 seconds
+2019-11-11 16:05:30,962 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:05:31,053 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.09021902084350586 seconds
+2019-11-11 16:08:44,454 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9375560283660889 seconds
+2019-11-11 16:08:44,462 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-11-11 16:08:44,468 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-11-11 16:34:43,134 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9740948677062988 seconds
+2019-11-11 16:34:43,147 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-11-11 16:34:43,156 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-11-11 16:34:43,300 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.13701510429382324 seconds
+2019-11-11 16:34:44,522 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/login, Spend 1.221372127532959 seconds
+2019-11-11 16:34:44,677 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.1540827751159668 seconds
+2019-11-11 16:34:44,803 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.12584519386291504 seconds
+2019-11-11 16:34:44,880 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.07695627212524414 seconds
+2019-11-11 16:34:44,881 - root - INFO - ############################### START ###############################
+2019-11-11 16:34:50,013 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:34:50,014 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.128049850463867 seconds
+2019-11-11 16:34:50,366 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/163450.015.png, Spend 0.3512430191040039 seconds
+2019-11-11 16:34:50,411 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.044239044189453125 seconds
+2019-11-11 16:34:50,411 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:34:50,416 - root - INFO - ############################### START ###############################
+2019-11-11 16:34:55,575 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:34:55,576 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.155407905578613 seconds
+2019-11-11 16:34:55,915 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/163455.577.png, Spend 0.3381311893463135 seconds
+2019-11-11 16:34:55,936 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.020489931106567383 seconds
+2019-11-11 16:34:55,936 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:34:55,937 - root - INFO - ############################### START ###############################
+2019-11-11 16:34:56,002 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 0.06097412109375 seconds
+2019-11-11 16:35:01,134 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:35:01,135 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.132434129714966 seconds
+2019-11-11 16:35:01,474 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/163501.137.png, Spend 0.338115930557251 seconds
+2019-11-11 16:35:01,516 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.040730953216552734 seconds
+2019-11-11 16:35:01,516 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:35:01,517 - root - INFO - ############################### START ###############################
+2019-11-11 16:35:06,658 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:35:06,659 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.136380910873413 seconds
+2019-11-11 16:35:07,003 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/163506.661.png, Spend 0.3424258232116699 seconds
+2019-11-11 16:35:07,024 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.021351337432861328 seconds
+2019-11-11 16:35:07,025 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:35:07,026 - root - INFO - ############################### START ###############################
+2019-11-11 16:35:12,169 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:35:12,171 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.13715386390686 seconds
+2019-11-11 16:35:12,507 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/163512.172.png, Spend 0.3358309268951416 seconds
+2019-11-11 16:35:12,531 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.023326873779296875 seconds
+2019-11-11 16:35:12,532 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:35:12,532 - root - INFO - ############################### START ###############################
+2019-11-11 16:35:17,682 - root - ERROR - No such element found xpath->//div[@class="logo"] Message: Element: xpath->//div[@class="logo"] not found in 5 seconds.
+
+2019-11-11 16:35:17,682 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="logo"]>, Spend 5.145786762237549 seconds
+2019-11-11 16:35:18,020 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/163517.684.png, Spend 0.3369138240814209 seconds
+2019-11-11 16:35:18,041 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.02020406723022461 seconds
+2019-11-11 16:35:18,042 - root - INFO - ###############################  End  ###############################
+2019-11-11 16:35:18,149 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.1070258617401123 seconds
+2019-11-11 18:41:39,298 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9574673175811768 seconds
+2019-11-11 18:41:39,313 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-11-11 18:41:39,319 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/GroupManagementTestCase.xlsx success
+2019-11-11 18:41:39,480 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.15409493446350098 seconds
+2019-11-11 18:41:40,629 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/login, Spend 1.148404836654663 seconds
+2019-11-11 18:41:40,787 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: auto_test, Spend 0.15811920166015625 seconds
+2019-11-11 18:41:40,911 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Ws123456, Spend 0.12337183952331543 seconds
+2019-11-11 18:41:40,986 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.07420086860656738 seconds
+2019-11-11 18:41:40,986 - root - INFO - ############################### START ###############################
+2019-11-11 18:41:41,564 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.5727589130401611 seconds
+2019-11-11 18:41:42,153 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5879530906677246 seconds
+2019-11-11 18:41:42,205 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.05174684524536133 seconds
+2019-11-11 18:41:42,315 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.10927605628967285 seconds
+2019-11-11 18:41:42,891 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.57529616355896 seconds
+2019-11-11 18:41:42,924 - root - INFO - FAIL    Unable to click element: <xpath->//span[contains(text(),"新建")]>, Spend 0.03217005729675293 seconds
+2019-11-11 18:41:43,030 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.10601019859313965 seconds
+2019-11-11 18:41:43,138 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: , Spend 0.10670590400695801 seconds
+2019-11-11 18:41:43,245 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.10701203346252441 seconds
+2019-11-11 18:41:43,315 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.06900715827941895 seconds
+2019-11-11 18:41:43,418 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.09857320785522461 seconds
+2019-11-11 18:41:48,558 - root - ERROR - No such element found xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] Message: Element: xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] not found in 5 seconds.
+
+2019-11-11 18:41:48,558 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")]>, Spend 5.138901233673096 seconds
+2019-11-11 18:41:48,915 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/184148.562.png, Spend 0.35311102867126465 seconds
+2019-11-11 18:41:48,982 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.06673693656921387 seconds
+2019-11-11 18:41:48,983 - root - INFO - ###############################  End  ###############################
+2019-11-11 18:41:48,987 - root - INFO - ############################### START ###############################
+2019-11-11 18:41:49,029 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.03705906867980957 seconds
+2019-11-11 18:41:49,608 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5785379409790039 seconds
+2019-11-11 18:41:49,653 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.04428696632385254 seconds
+2019-11-11 18:41:49,686 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.03255510330200195 seconds
+2019-11-11 18:41:49,778 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.0909719467163086 seconds
+2019-11-11 18:41:50,394 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.616328239440918 seconds
+2019-11-11 18:41:50,658 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: ssssssssssssssssssssssssssssssssssss, Spend 0.26332688331604004 seconds
+2019-11-11 18:41:50,759 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.10021591186523438 seconds
+2019-11-11 18:41:50,813 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.05384492874145508 seconds
+2019-11-11 18:41:50,909 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.09499382972717285 seconds
+2019-11-11 18:41:56,053 - root - ERROR - No such element found xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] Message: Element: xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] not found in 5 seconds.
+
+2019-11-11 18:41:56,054 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")]>, Spend 5.144946813583374 seconds
+2019-11-11 18:41:56,387 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/184156.056.png, Spend 0.3311591148376465 seconds
+2019-11-11 18:41:56,429 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.04171395301818848 seconds
+2019-11-11 18:41:56,429 - root - INFO - ###############################  End  ###############################
+2019-11-11 18:41:56,430 - root - INFO - ############################### START ###############################
+2019-11-11 18:41:56,482 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.04445910453796387 seconds
+2019-11-11 18:41:57,059 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.576420783996582 seconds
+2019-11-11 18:41:57,104 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.045308828353881836 seconds
+2019-11-11 18:41:57,141 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.03574728965759277 seconds
+2019-11-11 18:41:57,231 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.08954429626464844 seconds
+2019-11-11 18:41:57,861 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.6300539970397949 seconds
+2019-11-11 18:41:58,005 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: _asdasdasd, Spend 0.14252185821533203 seconds
+2019-11-11 18:41:58,099 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.09364914894104004 seconds
+2019-11-11 18:41:58,164 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.06550884246826172 seconds
+2019-11-11 18:41:58,255 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.09009099006652832 seconds
+2019-11-11 18:42:03,390 - root - ERROR - No such element found xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] Message: Element: xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] not found in 5 seconds.
+
+2019-11-11 18:42:03,391 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")]>, Spend 5.13495397567749 seconds
+2019-11-11 18:42:03,721 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/184203.392.png, Spend 0.3289909362792969 seconds
+2019-11-11 18:42:03,754 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.03321123123168945 seconds
+2019-11-11 18:42:03,755 - root - INFO - ###############################  End  ###############################
+2019-11-11 18:42:03,756 - root - INFO - ############################### START ###############################
+2019-11-11 18:42:03,817 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.056162118911743164 seconds
+2019-11-11 18:42:04,398 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5805191993713379 seconds
+2019-11-11 18:42:04,443 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.04467606544494629 seconds
+2019-11-11 18:42:04,477 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.03345894813537598 seconds
+2019-11-11 18:42:04,539 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.061026811599731445 seconds
+2019-11-11 18:42:05,178 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.6387932300567627 seconds
+2019-11-11 18:42:05,322 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: !@#$%^&*(, Spend 0.1430377960205078 seconds
+2019-11-11 18:42:05,416 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.09359121322631836 seconds
+2019-11-11 18:42:05,489 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.07312273979187012 seconds
+2019-11-11 18:42:05,574 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.08431577682495117 seconds
+2019-11-11 18:42:10,709 - root - ERROR - No such element found xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] Message: Element: xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] not found in 5 seconds.
+
+2019-11-11 18:42:10,709 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")]>, Spend 5.134793043136597 seconds
+2019-11-11 18:42:11,042 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/184210.711.png, Spend 0.3310661315917969 seconds
+2019-11-11 18:42:11,082 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.03932785987854004 seconds
+2019-11-11 18:42:11,082 - root - INFO - ###############################  End  ###############################
+2019-11-11 18:42:11,082 - root - INFO - ############################### START ###############################
+2019-11-11 18:42:11,133 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.04551124572753906 seconds
+2019-11-11 18:42:11,715 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5818729400634766 seconds
+2019-11-11 18:42:11,772 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.05638408660888672 seconds
+2019-11-11 18:42:11,807 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.03482794761657715 seconds
+2019-11-11 18:42:11,877 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.06908011436462402 seconds
+2019-11-11 18:42:12,506 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.6288719177246094 seconds
+2019-11-11 18:42:12,657 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: test123, Spend 0.14948105812072754 seconds
+2019-11-11 18:42:12,772 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.11454582214355469 seconds
+2019-11-11 18:42:12,840 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.06771206855773926 seconds
+2019-11-11 18:42:12,930 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.09026026725769043 seconds
+2019-11-11 18:42:18,068 - root - ERROR - No such element found xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] Message: Element: xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] not found in 5 seconds.
+
+2019-11-11 18:42:18,068 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")]>, Spend 5.137228727340698 seconds
+2019-11-11 18:42:18,408 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/184218.070.png, Spend 0.3379368782043457 seconds
+2019-11-11 18:42:18,460 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.052490949630737305 seconds
+2019-11-11 18:42:18,461 - root - INFO - ###############################  End  ###############################
+2019-11-11 18:42:18,461 - root - INFO - ############################### START ###############################
+2019-11-11 18:42:18,521 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@class="logo"]>, Spend 0.05456805229187012 seconds
+2019-11-11 18:42:19,092 - root - INFO - SUCCESS    Clicked element: <xpath->//span[text()="决策中心"]>, Spend 0.5697178840637207 seconds
+2019-11-11 18:42:19,134 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.0414881706237793 seconds
+2019-11-11 18:42:19,168 - root - INFO - FAIL    Unable to click element: <xpath->//li[text()="分组管理"]>, Spend 0.03400874137878418 seconds
+2019-11-11 18:42:19,254 - root - INFO - SUCCESS    Clicked element: <xpath->//li[text()="分组管理"]>, Spend 0.08525419235229492 seconds
+2019-11-11 18:42:19,877 - root - INFO - SUCCESS    Clicked element: <xpath->//span[contains(text(),"新建")]>, Spend 0.6226720809936523 seconds
+2019-11-11 18:42:20,040 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组名称"]//parent::*//input> content: test1234, Spend 0.16173410415649414 seconds
+2019-11-11 18:42:20,139 - root - INFO - SUCCESS    Clear and type element: <xpath->//label[text()="分组描述"]//parent::*//input> content: test123, Spend 0.09826278686523438 seconds
+2019-11-11 18:42:20,210 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@role="radiogroup"]//span[contains(text(), "共享")]>, Spend 0.07125186920166016 seconds
+2019-11-11 18:42:20,303 - root - INFO - SUCCESS    Clicked element: <xpath->//input[@class="el-select__input is-small"]>, Spend 0.09209084510803223 seconds
+2019-11-11 18:42:25,449 - root - ERROR - No such element found xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] Message: Element: xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")] not found in 5 seconds.
+
+2019-11-11 18:42:25,449 - root - INFO - FAIL    Unable to click element: <xpath->//div[@class="el-select-dropdown el-popper is-multiple select-dropdown__desc without-desc"]//li//div[contains(text(), "liming")]>, Spend 5.146178722381592 seconds
+2019-11-11 18:42:25,777 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/testreport/image/20191111/184225.451.png, Spend 0.32669854164123535 seconds
+2019-11-11 18:42:25,824 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9002/#/home, Spend 0.046365976333618164 seconds
+2019-11-11 18:42:25,825 - root - INFO - ###############################  End  ###############################
+2019-11-11 18:42:25,932 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.10625314712524414 seconds

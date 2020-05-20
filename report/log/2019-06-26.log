@@ -1,0 +1,48 @@
+2019-06-26 17:06:24,207 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-06-26 17:06:24,208 - root - INFO - ############################### START ###############################
+2019-06-26 17:06:26,821 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 2.612177848815918 seconds
+2019-06-26 17:06:26,946 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.12512898445129395 seconds
+2019-06-26 17:06:28,152 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 1.203251838684082 seconds
+2019-06-26 17:06:28,871 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/image/20190626/170628.153.png, Spend 0.7181980609893799 seconds
+2019-06-26 17:06:28,953 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.08155608177185059 seconds
+2019-06-26 17:06:28,954 - root - INFO - ###############################  End  ###############################
+2019-06-26 17:06:28,956 - root - INFO - ############################### START ###############################
+2019-06-26 17:06:30,882 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.925900936126709 seconds
+2019-06-26 17:06:31,010 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.1274559497833252 seconds
+2019-06-26 17:06:32,073 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 1.0600321292877197 seconds
+2019-06-26 17:06:32,772 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/image/20190626/170632.074.png, Spend 0.6983563899993896 seconds
+2019-06-26 17:06:32,850 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.07805299758911133 seconds
+2019-06-26 17:06:32,851 - root - INFO - ###############################  End  ###############################
+2019-06-26 17:14:45,696 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-06-26 17:14:45,696 - root - INFO - ############################### START ###############################
+2019-06-26 17:14:47,668 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9713828563690186 seconds
+2019-06-26 17:14:47,798 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.12886309623718262 seconds
+2019-06-26 17:14:48,307 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/image/20190626/171447.800.png, Spend 0.5072791576385498 seconds
+2019-06-26 17:14:48,375 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.0662379264831543 seconds
+2019-06-26 17:14:48,375 - root - INFO - ###############################  End  ###############################
+2019-06-26 17:14:48,377 - root - INFO - ############################### START ###############################
+2019-06-26 17:14:50,322 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9442429542541504 seconds
+2019-06-26 17:14:50,450 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.1270756721496582 seconds
+2019-06-26 17:14:50,946 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/image/20190626/171450.453.png, Spend 0.49367785453796387 seconds
+2019-06-26 17:14:51,010 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.06369376182556152 seconds
+2019-06-26 17:14:51,011 - root - INFO - ###############################  End  ###############################
+2019-06-26 17:16:57,912 - root - INFO - open /Users/zhy/github/UItestframework/data/testdata/LoginTestCase.xlsx success
+2019-06-26 17:16:57,913 - root - INFO - ############################### START ###############################
+2019-06-26 17:16:59,865 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.951991081237793 seconds
+2019-06-26 17:16:59,998 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.13216209411621094 seconds
+2019-06-26 17:17:01,311 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 1.3105988502502441 seconds
+2019-06-26 17:17:01,535 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu, Spend 0.22327089309692383 seconds
+2019-06-26 17:17:01,659 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy3382155, Spend 0.12337613105773926 seconds
+2019-06-26 17:17:01,743 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.08352088928222656 seconds
+2019-06-26 17:17:02,367 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.08838701248168945 seconds
+2019-06-26 17:17:02,368 - root - INFO - ###############################  End  ###############################
+2019-06-26 17:17:02,368 - root - INFO - ############################### START ###############################
+2019-06-26 17:17:04,331 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 1.9620873928070068 seconds
+2019-06-26 17:17:04,467 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.13585901260375977 seconds
+2019-06-26 17:17:06,013 - root - INFO - SUCCESS    Navigated to http://192.168.0.223:9001/#/login, Spend 1.5432932376861572 seconds
+2019-06-26 17:17:06,203 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@type="text"]> content: zhanghaoyu1, Spend 0.18979406356811523 seconds
+2019-06-26 17:17:06,322 - root - INFO - SUCCESS    Clear and type element: <xpath->//div//input[@placeholder="请输入密码"]> content: Zhy33821551, Spend 0.11845111846923828 seconds
+2019-06-26 17:17:06,386 - root - INFO - SUCCESS    Clicked element: <xpath->//button//span[text()="登录"]>, Spend 0.06311988830566406 seconds
+2019-06-26 17:17:07,120 - root - INFO - SUCCESS    Get the current window screenshot,path: /Users/zhy/github/UItestframework/report/image/20190626/171706.420.png, Spend 0.6998291015625 seconds
+2019-06-26 17:17:07,199 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 0.07890009880065918 seconds
+2019-06-26 17:17:07,200 - root - INFO - ###############################  End  ###############################
